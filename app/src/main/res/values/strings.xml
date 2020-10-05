@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">MvvmSimpleExample</string>
+    <string name="app_name">Inventory Management</string>
     <string name="crear_lista">Crear lista</string>
+    <string name="inventory_management">Inventory Management</string>
 </resources>
